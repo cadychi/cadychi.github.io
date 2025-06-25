@@ -1,9 +1,23 @@
-wordex=[//,["英文",[["n","中文"]],"音標","三態;;","複數"]
- ["gore",[["n","三角布，三角地帶;血，凝血，血塊"],["v","牛、羊等用角牴破;用獠牙刺破;頂傷"]],"gor","gored;gored;goring",""]
-,["incense",[["n","香;焚香的煙;香味，香氣;尊敬，恭維"],["v","焚香、敬香;用香薰;激怒，使憤怒"]],"ˋɪnsɛns","incensed;incensed;incensing"]
-,["profane",[["a","褻瀆的;好咒罵的;世俗的;異教的"],["v","褻瀆;玷汙;濫用、錯用"]],"prəˋfen","profaned;profaned;profaning"]
+﻿wordex=[//,["英文",[["n","中文"]],"音標","三態;;","複數"]
+ ["profane",[["a","褻瀆的;好咒罵的;世俗的;異教的"],["v","褻瀆;玷汙;濫用、錯用"]],"prəˋfen","profaned;profaned;profaning"]
 ,["sojourn",[["n","逗留;旅居"]],"ˋsodʒɝn","",""]
 ,["sinew",[["n","體力，活力，精力;腱，肌腱;支柱，砥柱"],["v","使牢固;支持，加強"]],"ˋsɪnju",";;",""]
 ,["harlot",[["n","妓女"]],"ˋhɑrlət","",""]
 ,["shipwreck",[["n","船舶失事，海難;失事船，沉船;海難殘骸"],["v","使遭受海難;使毀滅失敗"]],"ˋʃɪp͵rɛk",";;",""]
+,["garrison",[["n","衛戍部隊，警衛部隊，駐軍;駐防地，要塞"],["v","駐防"],["a","衛戍部隊的，有駐軍的，駐防的"]],"ˋgærɪsn",";;",""]
+,["quiver",[["n","顫抖，抖動;顫聲;箭袋，箭筒"],["v","顫抖，發抖"]],"ˋkwɪvɚ",";;",""]
 ];
+/*  
+      smit   gore  smote engraver  
+  Repent Valuations Tithes Census   Trumpets Rebel Heave
+  Vengeance        
+Usurps Vessels  Reign     Exhorts Majesty Calamity Folly
+Fiery Iniquity  Reproof  Remnant  Remembrance  triumphal
+  Leaven Desolation  Steward  Apostle    
+Zeal Heirs   Deceivers Hospitality
+ thereof  suffice abominable  utmost vew   transgressed  
+   tumor   harp  abide thresh abhor    
+deceit   extol heed  valiant astray   strife  haste wick 
+residue   rend  travail   recompense  sojourmes   dunghill
+devour scourge treatise  covet charity expedient profess   
+*/
