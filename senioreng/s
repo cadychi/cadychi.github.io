@@ -1,22 +1,21 @@
 ﻿wordex=[//,["英文",[["n","中文"]],"音標","三態;;","複數"]
- ["quiver",[["n","顫抖，抖動;顫聲;箭袋，箭筒"],["v","顫抖，發抖"]],"ˋkwɪvɚ",";;",""]
-,["smite",[["v","重擊，猛打;擊敗，毀滅;侵襲，襲擊;折磨"]],"smaɪt","smote;smitten;smiting"]
-,["strife",[["n","衝突，爭鬥;吵架，糾紛"]],"straɪf","",""]
+ ["strife",[["n","衝突，爭鬥;吵架，糾紛"]],"straɪf","",""]
 ,["calamity",[["n","災難，大禍;不幸，苦難"]],"kəˋlæmətɪ","","calamities"]
 ,["engraver",[["n","雕刻師，雕刻匠"]],"ɪnˋgrevɚ","",""]
 ,["reproof",[["n","責備，指責;譴責，非難"]],"rɪˋpruf","",""]
 ,["suffice",[["v","足夠，能夠;使滿足，滿足"]],"səˋfaɪs","sufficed;sufficed;sufficing"]
+,["valiant",[["a","勇敢的，英勇的"],["n","勇敢的人，勇士"]],"ˋvæljənt","",""]
+,["covet",[["v","垂涎，貪圖，渴望;貪求"]],"ˋkʌvɪt",";;"]
 ];
 /*  
-   Valuations Tithes    Trumpets  Heave
-  Vengeance        
-Usurps Vessels  Reign     Exhorts Majesty  Folly
+    Tithes    Trumpets  Heave
+Usurps   Reign     Exhorts Majesty  Folly
 Fiery Iniquity    Remnant  Remembrance  triumphal
   Leaven Desolation    Apostle    
 Zeal Heirs   Deceivers Hospitality
- thereof   abominable  utmost vew   transgressed  
+ thereof   abominable  utmost    transgressed  
    tumor   harp  abide thresh abhor    
-deceit   extol heed  valiant astray     haste wick 
+deceit   extol heed   astray     haste wick 
 residue   rend  travail   recompense  sojourmes   dunghill
-devour scourge treatise  covet charity expedient profess   
+devour scourge treatise    expedient profess   
 */
