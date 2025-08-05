@@ -1,14 +1,14 @@
 ﻿wordex=[//,["英文",[["n","中文"]],"音標","三態;;","複數"]
- ["strife",[["n","衝突，爭鬥;吵架，糾紛"]],"straɪf","",""]
-,["calamity",[["n","災難，大禍;不幸，苦難"]],"kəˋlæmətɪ","","calamities"]
-,["engraver",[["n","雕刻師，雕刻匠"]],"ɪnˋgrevɚ","",""]
+ ["engraver",[["n","雕刻師，雕刻匠"]],"ɪnˋgrevɚ","",""]
 ,["reproof",[["n","責備，指責;譴責，非難"]],"rɪˋpruf","",""]
 ,["suffice",[["v","足夠，能夠;使滿足，滿足"]],"səˋfaɪs","sufficed;sufficed;sufficing"]
 ,["valiant",[["a","勇敢的，英勇的"],["n","勇敢的人，勇士"]],"ˋvæljənt","",""]
 ,["covet",[["v","垂涎，貪圖，渴望;貪求"]],"ˋkʌvɪt",";;"]
+,["tithe",[["n","什一稅;捐稅，捐款;十分之一;小部分"],["v","徵收什一稅，交納什一稅"]],"taɪð","tithed;tithed;tithing",""]
+,["heave",[["v","用力舉起，拉起，提起;使鼓起，使起伏;投擲;用力絞，拉起，捲起;有節奏地起伏;喘息;嘔吐"],["n","舉起，拉起;投擲"]],"hiv","hove;hove;heaving",""]
 ];
 /*  
-    Tithes    Trumpets  Heave
+        Trumpets  
 Usurps   Reign     Exhorts Majesty  Folly
 Fiery Iniquity    Remnant  Remembrance  triumphal
   Leaven Desolation    Apostle    
