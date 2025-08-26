@@ -1,21 +1,19 @@
 ﻿wordex=[//,["英文",[["n","中文"]],"音標","三態;;","複數"]
- ["engraver",[["n","雕刻師，雕刻匠"]],"ɪnˋgrevɚ","",""]
-,["reproof",[["n","責備，指責;譴責，非難"]],"rɪˋpruf","",""]
-,["suffice",[["v","足夠，能夠;使滿足，滿足"]],"səˋfaɪs","sufficed;sufficed;sufficing"]
-,["valiant",[["a","勇敢的，英勇的"],["n","勇敢的人，勇士"]],"ˋvæljənt","",""]
-,["covet",[["v","垂涎，貪圖，渴望;貪求"]],"ˋkʌvɪt",";;"]
-,["tithe",[["n","什一稅;捐稅，捐款;十分之一;小部分"],["v","徵收什一稅，交納什一稅"]],"taɪð","tithed;tithed;tithing",""]
-,["heave",[["v","用力舉起，拉起，提起;使鼓起，使起伏;投擲;用力絞，拉起，捲起;有節奏地起伏;喘息;嘔吐"],["n","舉起，拉起;投擲"]],"hiv","hove;hove;heaving",""]
+ ["triumphal",[["a","勝利的，凱旋的"]],"traɪˋʌmf!"]
+,["thereof",[["adv","其；關於那"]],"ðɛrˋɑv"]
+,["usurp",[["v","篡奪;奪取;侵佔"]],"jʊˋzɝp",";;"]
+,["desolation",[["n","荒廢，荒蕪;寂寞，孤寂;荒地，廢墟"]],"͵dɛs!ˋeʃən","",""]
+,["deceiver",[["n","欺詐者，騙子"]],"dɪˋsivɚ","",""]
+,["remnant",[["n","殘餘，剩餘;遺跡;零料;剩餘部分"],["a","殘餘的，剩餘的"]],"ˋrɛmnənt","","複數"]
 ];
 /*  
-        Trumpets  
-Usurps   Reign     Exhorts Majesty  Folly
-Fiery Iniquity    Remnant  Remembrance  triumphal
-  Leaven Desolation    Apostle    
-Zeal Heirs   Deceivers Hospitality
+Exhorts Majesty  Folly
+Fiery Iniquity      Remembrance  
+  Leaven     Apostle    
+Zeal Heirs    Hospitality
  thereof   abominable  utmost    transgressed  
    tumor   harp  abide thresh abhor    
-deceit   extol heed   astray     haste wick 
+   extol heed   astray     haste wick 
 residue   rend  travail   recompense  sojourmes   dunghill
 devour scourge treatise    expedient profess   
 */
